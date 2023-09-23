@@ -1,0 +1,18 @@
+﻿<html>
+<head> <title> Болтанов Артем </title>
+<p align="center"> <font size="7">Общая информация</font></p>
+<hr color="#043A6B" size="4">
+<br>
+<body bgcolor="#66CC99">
+</head>
+<body>
+<br>
+<img style="position: relative; width: 300px; height: 400px; left: 5%;"src="img7.jpg">
+<img style="position: relative; width: 300px; height: 400px; left: 20%;"src="img8.jpg">
+<img style="position: relative; width: 300px; height: 400px; left: 35%;"src="img9.jpg">
+<p align="justify"> <font face="Times New Roman"> Здравствуйте, я Артем Болтанов, студент группы 1133. Приехал из городка под названием Лермонтов, который расположен на Северном Кавказе. Я очень люблю заниматься спортом, читать книги и рисовать. Сейчас ставлю себе цель отучиться в ГУАПе, пойти на магистратуру, начать работать.  </p> </font> </div>
+<table align=center bgcolor="#66CC99" width="90%" border="3" bordercolor="#043A6B" cellspacing="0"> 
+<td width="25%"><a href="Спорт.html"> <p align="center">Спорт </p> </td> <td width="25%"><a href="Книги.html"> <p align="center"> Книги </p></a></td> <td width="25%"><a href="Рисование.html"> <p align="center"> Рисование </p></a></td> 
+</table> 
+</body>
+</html>

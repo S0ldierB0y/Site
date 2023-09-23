@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>
+Рисование
+</title>
+<p align="center"> <font size="7"> <font face="Times New Roman">Мои увлечения: Рисование</font></p>
+<hr color="#043A6B" size="4">
+</head>
+<body>
+<body bgcolor="#66CC99">
+<p align "justify"><font size="4"><font face="Times New Roman">Мой отец - художник. Пусть я с ним очень мало общался, но страсть к рисованию у меня все-таки есть. Я умею хорошо перерисовывать, а вот сам что-то изобразить вряд-ли смогу. Я не ходил в художественную школу, но иногда так и хочется просто сесть и что-то нарисовать. В последнее время мне в этом помогает компьютер: я работаю в Adobe Illustrator и в Maya. Первая программа просто позволяет просто как в Paint делать рисунки, а вот Maya - программа для 3D моделирования, пока я только осваиваю ее, но мне хочется когда-нибудь научиться создавать полноценные анимации с ее помощью. 
+<br>
+Ниже я привел парочку своих работ в сравнении с оригинальными фото/картинками. 
+</p>
+<img style="position: relative; width: 300px; height: 400px; left: 5%;"src="img5.jpg">
+<img style="position: relative; width: 300px; height: 400px; left: 8%;"src="img6.jpg">
+<img style="position: relative; width: 300px; height: 400px; left: 11%;"src="img13.png">
+<img style="position: relative; width: 300px; height: 400px; left: 14%;"src="img14.jpg">
+<td width="25%"><a href="1 страница сайта.html"> <p align="center">На главную </p> </td>
+</body>
+</html>

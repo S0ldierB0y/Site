@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+Спорт
+</title>
+<p align="center"> <font size="7"> <font face="Times New Roman">Мои увлечения: спорт</font></p>
+<hr color="#043A6B" size="4">
+</head>
+<body>
+<body bgcolor="#66CC99">
+<p align "justify"><font size="4"><font face="Times New Roman">Спортом я занимаюсь с детства: рукопашный бой, легкая и тяжелая атлетика, катание на лыжах и греко-римская борьба. Во всех этих дисциплинах я добился своих успехов: парочка золотых медалей за участие в городских соревнованиях по борбе, золотой значок ГТО. Я считаю, что спортом заниматься нужно, и есть много причин, почему это так:
+<br>
+Во-первых, спорт укрепляет иммунитет, соответственно спорт держит нас в тонусе и делает организм устойчивее к болезням.
+<br>
+Во-вторых, спорт делает нас сильными, уверенными в том, что постоять за себя мы сможем.
+<br>
+Ну и в-третьих, спорт - это всегда красивое тело. Даже глядя на себя в зеркало порой спортсмены любуются своими достижениями, написанными на их теле.
+</p>
+<img style="position: relative; width: 300px; height: 200px; left: 10%"src="12.jpg">
+<img style="position: relative; width: 300px; height: 200px; left: 19%"src="img1.jpg">
+<img style="position: relative; width: 300px; height: 200px; left: 28%"src="img2.jpg">
+<br><br>
+<img style="position: relative; width: 300px; height: 200px; left: 25%"src="img3.jpg">
+<img style="position: relative; width: 300px; height: 200px; left: 35%"src="img4.jpg">
+<td width="25%"><a href="1 страница сайта.html"> <p align="center">На главную </p> </td>
+</body>
+</html>

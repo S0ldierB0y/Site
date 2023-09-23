@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>
+Книги
+</title>
+<p align="center"> <font size="7"> <font face="Times New Roman">Мои увлечения: Книги</font></p>
+<hr color="#043A6B" size="4">
+</head>
+<body>
+<body bgcolor="#66CC99">
+<p align "justify"><font size="4"><font face="Times New Roman">Я с детства очень люблю читать книги, в основном фантастику и научную фантастику. Сейчас к этому списку жанров можно прибавить и романы, в частности, под авторством Э.М.Ремарка. Научно доказано, что книги повышают мозговую активность в отличие от просмотра телевизора или же игры в компьютер. Начитанных людей уважают, с их мнением считаются. К тому же книги могут передать эмоции, чего фильм, увы, в полной мере не сможет сделать. Из моих любимых произведений могу отметить "Тихий Дон" и "Часодеи". Сейчас, приехав в Санкт-Петербург, увлекся романами Э.М.Ремарка.</p>
+<img style="position: relative; width: 300px; height: 400px; left: 5%;"src="img10.jpg">
+<img style="position: relative; width: 300px; height: 400px; left: 20%;"src="img11.jpg">
+<img style="position: relative; width: 300px; height: 400px; left: 35%;"src="img12.jpg">
+<td width="25%"><a href="1 страница сайта.html"> <p align="center">На главную </p> </td>
+</body>
+</html>
